@@ -1,4 +1,4 @@
-## I'm currently learning and working 👋
+## I'm currently learning and working 🎄
 
 > [!NOTE]
 > I'm still looking for an area to specialize in, knowledge of web programming, neural networks and basic scripts.
