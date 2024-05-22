@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> [!NOTE]
+> I'm still looking for an area to specialize in, knowledge of web programming, neural networks and basic scripts.
 <!--
 **Edwin16x/Edwin16x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
