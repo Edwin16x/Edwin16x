@@ -14,7 +14,7 @@ Backend y desarrollo de sistemas prácticos.
 **Stack**
 Python · JavaScript · TypeScript · PHP · React  
 SQLite · MySQL · PostgreSQL · Linux · Tauri · VPS
-Laravel · Supabase · Cloudflare Pages · Vercel
+· Laravel · Supabase · Cloudflare Pages · Vercel
 
 **Proyectos**
 - [ShellBeat](https://github.com/Edwin16x/ShellBeat) — Reproductor de música TUI
