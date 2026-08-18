@@ -1,4 +1,4 @@
-# Edwin Hinojos
+# Edwin HS
 
 **Ingeniero Informático | Ciberseguridad, Arquitectura de Datos y Backend**
 
@@ -7,7 +7,11 @@ Desarrollador enfocado en ser el "corazón" de los sistemas: bases de datos estr
 ### Experiencia y Logros
 
 - **Desarrollador Freelance:** Arquitectura y despliegue de sistemas a medida. Experiencia real llevando proyectos desde el diseño relacional hasta producción.
-- **Doble Finalista Nacional (Hackatec):** Capacidad demostrada para resolver problemas complejos y arquitectar soluciones bajo presión.
+- **Participación en HackaTecNM (TecNM):**
+  - 2023: Sistema de detección de fallas en máquina industrial de cableado — 1er lugar etapa local
+  - 2023: Modelo predictivo de germinación de semillas con dashboard web — etapa regional
+  - 2024: Sistema de monitoreo para generadores eólicos de eje vertical — etapa regional
+  - 2024: Software de cálculo y proyección energética para microgeneración hidráulica — etapa nacional
 
 ### Stack Tecnológico e Infraestructura
 
