@@ -1,34 +1,32 @@
 ### Edwin
 
-Ingeniero Informático · 23 años · Chihuahua, México
+Ingeniero Informático
 
-Desarrollo web, sistemas a medida y aplicaciones de escritorio.
+Especialidad en ciberseguridad. Enfocado en backend y desarrollo de sistemas prácticos.
 
 ---
 
-**Lenguajes y tecnologías**
+**Experiencia**
+- Desarrollador freelance (proyectos locales y foráneos)
+- Finalista nacional en Hackatec (TecNM) en dos ocasiones
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-- **Backend:** Python, PHP, Node.js  
-- **Bases de datos:** SQLite, MySQL, PostgreSQL  
-- **Desktop:** Tauri  
-- **Aprendiendo:** Go  
+**Stack principal**
+- **Lenguajes:** Python, JavaScript, TypeScript, PHP
+- **Frontend:** HTML, CSS, React
+- **Backend & Desktop:** Python, Tauri
+- **Bases de datos:** SQLite, MySQL, PostgreSQL
+- **Aprendiendo:** Go
 
-**Infraestructura y despliegue**
-
+**Infraestructura**
 - VPS (Linux)
 - Vercel
 - Cloudflare Pages
 - Supabase
 
-**Entorno**
-
-Usuario diario de Linux.
+**Enfoque**
+Desarrollo de sistemas a medida, protección de datos y aplicaciones ligeras de alto rendimiento.
 
 ---
 
 **Proyectos actuales**
-
-- Desarrollo web para clientes
-- Sistema ERP especializado (en desarrollo)
 - [ShellBeat](https://github.com/Edwin16x/ShellBeat) — Reproductor de música TUI
