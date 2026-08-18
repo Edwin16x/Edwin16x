@@ -1,13 +1,13 @@
 ### Edwin
 
 Ingeniero Informático · 
-Backend y desarrollo de sistemas prácticos.
+Desarrollador Backend
 
 **Experiencia**
 - Desarrollador freelance (proyectos web y sistemas a medida)
 - HackaTecNM (TecNM):
   - Sistema de detección de fallas en máquina industrial — 1er lugar local 2023
-  - Modelo predictivo de germinación con dashboard web — regional 2023
+  - Modelo predictivo de germinación con dashboard web — 1er lugar regional norte 2023
   - Sistema de monitoreo para generadores eólicos — regional 2024
   - Software de proyección energética para microgeneración — nacional 2024
 
