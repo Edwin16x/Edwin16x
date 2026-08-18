@@ -1,32 +1,27 @@
-### Edwin
+# Edwin Hinojos
 
-Ingeniero Informático
+**Ingeniero Informático | Ciberseguridad, Arquitectura de Datos y Backend**
 
-Especialidad en ciberseguridad. Enfocado en backend y desarrollo de sistemas prácticos.
+Desarrollador enfocado en ser el "corazón" de los sistemas: bases de datos estructuradas, lógica de negocio robusta y protección de la información. Priorizo el rendimiento, el bajo consumo de recursos y la funcionalidad pura sobre la estética. Entornos Linux nativos.
 
----
+### Experiencia y Logros
 
-**Experiencia**
-- Desarrollador freelance (proyectos locales y foráneos)
-- Finalista nacional en Hackatec (TecNM) en dos ocasiones
+- **Desarrollador Freelance:** Arquitectura y despliegue de sistemas a medida. Experiencia real llevando proyectos desde el diseño relacional hasta producción.
+- **Doble Finalista Nacional (Hackatec):** Capacidad demostrada para resolver problemas complejos y arquitectar soluciones bajo presión.
 
-**Stack principal**
-- **Lenguajes:** Python, JavaScript, TypeScript, PHP
-- **Frontend:** HTML, CSS, React
-- **Backend & Desktop:** Python, Tauri
-- **Bases de datos:** SQLite, MySQL, PostgreSQL
-- **Aprendiendo:** Go
+### Stack Tecnológico e Infraestructura
 
-**Infraestructura**
-- VPS (Linux)
-- Vercel
-- Cloudflare Pages
-- Supabase
+- **Core & Backend:** Python, PHP, Tauri (Desktop)
+- **Bases de Datos:** PostgreSQL, MySQL, SQLite (Pasión por el diseño y optimización de esquemas relacionales).
+- **Seguridad:** Enfoque práctico en criptografía para sistemas offline y protección de datos.
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Infraestructura:** VPS (Linux), Supabase, Cloudflare Pages, Vercel
+- **Enfoque Actual:** Profundizando en **Go** y **Rust** para maximizar la concurrencia y llevar el rendimiento al límite en aplicaciones de bajo consumo.
 
-**Enfoque**
-Desarrollo de sistemas a medida, protección de datos y aplicaciones ligeras de alto rendimiento.
+### Proyectos Destacados
 
----
+- **[ShellBeat](URL_DE_TU_REPOSITORIO)**  
+  *Reproductor de música TUI (Terminal User Interface)*.  
+  Diseñado para la terminal de Linux. Consumo mínimo de recursos y ejecución ultra rápida. 
 
-**Proyectos actuales**
-- [ShellBeat](https://github.com/Edwin16x/ShellBeat) — Reproductor de música TUI
+
